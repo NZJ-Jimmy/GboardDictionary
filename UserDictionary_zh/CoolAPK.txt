@@ -1,47 +1,47 @@
-¿á°²Ğ¡±à	1	ku an xiao bian
-°¢¿á	1	a ku
-°Ë°Ù±ê±ø	1	ba bai biao bing
-Àæ×Ó	1	li zi
-ºÃÕ×Í·	1	hao zhao tou
-ÄäÃûÓÎ¿Í	1	ni ming you ke
-¿ìÀÖÇò	1	kuai le qiu
-±¦Ô´	1	bao yuan
-Ğ¡¹·³Ô²»ÁËÓã	1	xiao gou chi bu liao yu
-»Æ¸£ÁÖ	1	huang fu lin
-³ç°İ²»ÊÇ°®	1	chong bai bu shi ai
-ÜÇĞÇ³¿	1	rui xing chen
-»¨ÉúËµ	1	hua sheng shuo
-³¿ÖÓ½´	1	chen zhong jiang
-Ë®ÔÂÓê	1	shui yue yu
-Ï¼ğÍ	1	xia wu
-¹ÂğÍ	1	gu wu
-³Ç±±èÙ»¨¿ª	1	cheng bei zhi hua kai
-Ä½±±Çå¸èº®	1	mu bei qing ge han
-³Ì²©ÑÜ	1	cheng bo yan
-èÖÄ¾ÖÛ	1	you mu zhou
-Äş¾²Ö®Óê	1	ning jing zhi yu
-¶şÊ®±ÊÁãÒ»»­	1	er shi bi ling yi hua
-Âí¶¡ÁúÖí	1	ma ding long zhu
-ĞÇ¿ÕÎ´À´	1	xing kong wei lai
-Î¢Æô¶¯	1	wei qi dong
-´ø¿Ç½ØÍ¼	1	dai ke jie tu
-Ò»¸öÄ¾º¯	1	yi ge mu han
-°×Ãè	1	bai miao
-°×ÂíµØÍ¼	1	bai ma di tu
-Ç®¼£	1	qian ji
-´óÊ¥¾»»¯	1	da sheng jing hua
-´æ´¢¿Õ¼ä¸ôÀë	1	cun chu kong jian ge li
-´æ´¢ÖØ¶¨Ïò	1	cun chu chong ding xiang
-Å®æ´Ê¯	1	nv wa shi
-ïç¹¤¾ßÏä	1	lan gong ju xiang
+é…·å®‰å°ç¼–	1	ku an xiao bian
+é˜¿é…·	1	a ku
+å…«ç™¾æ ‡å…µ	1	ba bai biao bing
+æ¢¨å­	1	li zi
+å¥½å…†å¤´	1	hao zhao tou
+åŒ¿åæ¸¸å®¢	1	ni ming you ke
+å¿«ä¹çƒ	1	kuai le qiu
+å®æº	1	bao yuan
+å°ç‹—åƒä¸äº†é±¼	1	xiao gou chi bu liao yu
+é»„ç¦æ—	1	huang fu lin
+å´‡æ‹œä¸æ˜¯çˆ±	1	chong bai bu shi ai
+èŠ®æ˜Ÿæ™¨	1	rui xing chen
+èŠ±ç”Ÿè¯´	1	hua sheng shuo
+æ™¨é’Ÿé…±	1	chen zhong jiang
+æ°´æœˆé›¨	1	shui yue yu
+éœé¹œ	1	xia wu
+å­¤é¹œ	1	gu wu
+åŸåŒ—æ €èŠ±å¼€	1	cheng bei zhi hua kai
+æ…•åŒ—æ¸…æ­Œå¯’	1	mu bei qing ge han
+ç¨‹åšè¡	1	cheng bo yan
+æŸšæœ¨èˆŸ	1	you mu zhou
+å®é™ä¹‹é›¨	1	ning jing zhi yu
+äºŒåç¬”é›¶ä¸€ç”»	1	er shi bi ling yi hua
+é©¬ä¸é¾™çŒª	1	ma ding long zhu
+æ˜Ÿç©ºæœªæ¥	1	xing kong wei lai
+å¾®å¯åŠ¨	1	wei qi dong
+å¸¦å£³æˆªå›¾	1	dai ke jie tu
+ä¸€ä¸ªæœ¨å‡½	1	yi ge mu han
+ç™½æ	1	bai miao
+ç™½é©¬åœ°å›¾	1	bai ma di tu
+é’±è¿¹	1	qian ji
+å¤§åœ£å‡€åŒ–	1	da sheng jing hua
+å­˜å‚¨ç©ºé—´éš”ç¦»	1	cun chu kong jian ge li
+å­˜å‚¨é‡å®šå‘	1	cun chu chong ding xiang
+å¥³å¨²çŸ³	1	nv wa shi
+é•§å·¥å…·ç®±	1	lan gong ju xiang
 alexkillers	3	a l e x k i l l e r s
-BugĞ¡Íõ×Ó	3	b u g xiao wang zi
+Bugå°ç‹å­	3	b u g xiao wang zi
 fairyex	3	f a i r y e x
 TragedyPZ	3	t r a g e d y
-Áúº×Pro	3	long he
+é¾™é¹¤Pro	3	long he
 OasisFeng	3	o a s i s f e n g
 weishu	3	wei shu
-ÄÏèÙ±±³½or	3	nan zhi bei chen
+å—æ €åŒ—è¾°or	3	nan zhi bei chen
 wenjiahong	3	wen jia hong
 zzmind	3	z z m i n d
 Martincz	3	m a r t i n c z
@@ -50,14 +50,14 @@ Mokee	1	mo qu
 iKirby	1	i k i r b y
 Pandaria	1	p a n d a r i a
 WEPE	2	w e p e
-Î¢PE	2	wei p e
-¹â¡¤Óö	2	guang yu
-Sky¹â¡¤Óö	3	s k y
-PureÇáÓê	3	p u r e
-ÇáÓê	2	qing yu
-ïç¡¤ÏµÍ³¹¤¾ßÏä	2	lan xi tong gong ju xiang
-ïç¹¤¾ßÏä	2	lan gong ju xiang
-ïç¡¤ÏµÍ³¹¤¾ßÏä	3	lan gong ju xiang
+å¾®PE	2	wei p e
+å…‰Â·é‡	2	guang yu
+Skyå…‰Â·é‡	3	s k y
+Pureè½»é›¨	3	p u r e
+è½»é›¨	2	qing yu
+é•§Â·ç³»ç»Ÿå·¥å…·ç®±	2	lan xi tong gong ju xiang
+é•§å·¥å…·ç®±	2	lan gong ju xiang
+é•§Â·ç³»ç»Ÿå·¥å…·ç®±	3	lan gong ju xiang
 Magisk	2	m a g i s k
 Xposed	2	x p o s e d
 EdXposed	2	e d x p o s e d
