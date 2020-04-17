@@ -1,0 +1,305 @@
+桂一	37446	gui yi
+叠二	5574	die er
+花苑	1685	hua yuan
+桂雅	521	gui ya
+桂园	620	gui yuan
+大圩	14150	da wei
+江滨	1486	jiang bin
+江南名居	7997	jiang nan ming ju
+翠颐	204	cui yi
+灯湖	923	deng hu
+东二	8772	dong er
+石??	2107	shi geng
+叠南	2730	die nan
+叠北	2213	die bei
+平东	6114	ping dong
+平南	5495	ping nan
+平西	6450	ping xi
+平北	4979	ping bei
+平胜	3610	ping sheng
+夏东	3816	xia dong
+夏北	2680	xia bei
+中区	15528	zhong qu
+东区	4962	dong qu
+林岳	1815	lin yue
+??岗	786	lei gang
+大德	16558	da de
+凤鸣	569	feng ming
+夏南	3197	xia nan
+桂花	1764	gui hua
+桂南	2817	gui nan
+怡海	2627	yi hai
+夏西	4151	xia xi
+同德	7890	tong de
+中汇	14078	zhong hui
+大新	17061	da xin
+桂二	5660	gui er
+育才	3176	yu cai
+尖东	3474	jian dong
+海逸	2676	hai yi
+江滨	1486	jiang bin
+儒林	1757	ru lin
+沙口	3053	sha kou
+水南	5487	shui nan
+下西	12516	xia xi
+南方	8544	nan fang
+朗星	1322	lang xing
+沙咀	584	sha ju
+敦根	1460	dun gen
+梅圳	426	mei zhen
+大谷	14629	da gu
+河清	3173	he qing
+下北	11044	xia bei
+上东	16986	shang dong
+英明	5706	ying ming
+沙头	4224	sha tou
+璜矶	36	huang ji
+石江	2943	shi jiang
+北村	2761	bei cun
+新龙村	4546	xin long cun
+上西村	17944	shang xi cun
+海寿村	3523	hai shou cun
+下东村	12802	xia dong cun
+烟南村	3730	yan nan cun
+镇南村	3920	zhen nan cun
+南金村	5885	nan jin cun
+物流产业园九江片一区	54080	wu liu chan ye yuan jiu jiang pian yi qu
+物流产业园九江片三区	22427	wu liu chan ye yuan jiu jiang pian san qu
+物流产业园沙头片一区	55216	wu liu chan ye yuan sha tou pian yi qu
+物流产业园沙头片二区	23430	wu liu chan ye yuan sha tou pian er qu
+东碧	3404	dong bi
+樵华	1359	qiao hua
+樵园	492	qiao yuan
+樵乐	1166	qiao le
+西樵	3644	xi qiao
+联新	4155	lian xin
+山根	4246	shan gen
+西岸	4036	xi an
+显岗	1134	xian gang
+民乐	5123	min le
+百西	5836	bai xi
+崇南	2972	chong nan
+太平	6523	tai ping
+上金瓯	16330	shang jin ou
+崇北	2456	chong bei
+河岗	1519	he gang
+新河	4341	xin he
+稔岗	108	ren gang
+朝山	4418	chao shan
+大同	19614	da tong
+樵泰	360	qiao tai
+爱国	12357	ai guo
+简村	1256	jian cun
+岭西村	4369	ling xi cun
+儒溪村	945	ru xi cun
+百东村	6123	bai dong cun
+华夏村	2489	hua xia cun
+大岸村	15189	da an cun
+平沙村	4031	ping sha cun
+海舟村	3366	hai zhou cun
+新田村	4291	xin tian cun
+七星村	3296	qi xing cun
+西樵科技工业园	13318	xi qiao ke ji gong ye yuan
+轻纺城	3212	qing fang cheng
+丹灶	407	dan zao
+南沙	3222	nan sha
+石联	2748	shi lian
+联沙	1802	lian sha
+上安	16702	shang an
+仙岗	605	xian gang
+西城	5630	xi cheng
+银河	2234	yin he
+东升	3906	dong sheng
+劳边	2591	lao bian
+下沙滘	9474	xia sha jiao
+云溪	1728	yun xi
+金宁	3241	jin ning
+建设	3800	jian she
+沙滘	568	sha jiao
+罗行	8255	luo hang
+东联	4508	dong lian
+西联	4844	xi lian
+仙湖	1059	xian hu
+良登村	1927	liang deng cun
+塱心村	5715	lang xin cun
+下滘村	9529	xia jiao cun
+中安村	17451	zhong an cun
+西岸村	4658	xi an cun
+下安村	12518	xia an cun
+华南环保产业园	13001	hua nan huan bao chan ye yuan
+五金产业基地	23869	wu jin chan ye ji di
+狮城	2086	shi cheng
+塘中	13922	tang zhong
+唐边	2516	tang bian
+联表	3772	lian biao
+山南	5595	shan nan
+石碣	1520	shi jie
+小塘	5607	xiao tang
+华涌	1457	hua chong
+穆园	666	mu yuan
+塘头	3739	tang tou
+白沙桥	3028	bai sha qiao
+招大	14685	zhao da
+洞边	2299	dong bian
+五星	4160	wu xing
+群岗	1005	qun gang
+永安	3685	yong an
+大榄	14151	da lan
+红星	2165	hong xing
+丁圃	563	ding pu
+沙头	4224	sha tou
+高边	5630	gao bian
+兴贤	1660	xing xian
+颜峰	453	yan feng
+谭边	1960	tan bian
+横岗	402	heng gang
+罗湖	1872	luo hu
+罗湖	1872	luo hu
+联和	12115	lian he
+街边	2221	jie bian
+沙坑	648	sha keng
+上柏	13868	shang bai
+下柏	9062	xia bai
+罗村	1941	luo cun
+务庄	2402	wu zhuang
+朗沙	810	lang sha
+芦塘	151	lu tang
+显纲	1168	xian gang
+联星	2314	lian xing
+官窑	2506	guan yao
+乐安	4121	le an
+七甫	1758	qi fu
+驿园	517	yi yuan
+桃园	627	tao yuan
+大学城	21355	da xue cheng
+唐边村	3138	tang bian cun
+黄洞村	2282	huang dong cun
+狮中村	14527	shi zhong cun
+狮北村	2825	shi bei cun
+罗洞村	2363	luo dong cun
+朗下村	9771	lang xia cun
+大涡塘村	14880	da wo tang cun
+狮西村	4297	shi xi cun
+狮岭村	825	shi ling cun
+狮南村	3342	shi nan cun
+莲子塘	10618	lian zi tang
+莲塘村	883	lian tang cun
+新境村	4338	xin jing cun
+象岭村	2368	xiang ling cun
+南浦村	3387	nan pu cun
+石澎村	2147	shi peng cun
+黎岗村	920	li gang cun
+吴屋村	1726	wu wu cun
+永和村	12198	yong he cun
+刘边村	3448	liu bian cun
+新和村	14423	xin he cun
+凤岗村	1071	feng gang cun
+塘联村	1940	tang lian cun
+万石村	4386	wan shi cun
+显子岗村	12113	xian zi gang cun
+龙头村	5282	long tou cun
+沙水村	4023	sha shui cun
+石泉村	2357	shi quan cun
+南海科技工业园松夏一	53245	nan hai ke ji gong ye yuan song xia yi
+南海科技工业园松夏三	21591	nan hai ke ji gong ye yuan song xia san
+南海科技工业园南区社	20931	nan hai ke ji gong ye yuan nan qu she
+南海科技工业园北区社	20415	nan hai ke ji gong ye yuan bei qu she
+南海科技工业园核心区	22133	nan hai ke ji gong ye yuan he xin qu
+三环西汽配园区	12863	san huan xi qi pei yuan qu
+长虹岭工业园	11561	chang hong ling gong ye yuan
+沙堤机场	6088	sha di ji chang
+桂城街道	12278	gui cheng jie dao
+九江镇	3731	jiu jiang zhen
+西樵镇	4286	xi qiao zhen
+丹灶镇	1049	dan zao zhen
+狮山镇	3649	shi shan zhen
+大沥镇	14798	da li zhen
+里水镇	10511	li shui zhen
+沥苑	98	li yuan
+沥南	2669	li nan
+沥雄	461	li xiong
+沥兴	1279	li xing
+直街	2524	zhi jie
+六村	2447	liu cun
+华夏	1866	hua xia
+岐阳	1404	qi yang
+嘉怡	335	jia yi
+洞庭	895	dong ting
+江北	3568	jiang bei
+沥北	2152	li bei
+沥东	3288	li dong
+沥西	3624	li xi
+沥中	13854	li zhong
+雅瑶	421	ya yao
+联滘	1235	lian jiao
+凤池	559	feng chi
+水头	6489	shui tou
+奇槎	926	qi cha
+钟边	2382	zhong bian
+大镇	14784	da zhen
+谢边	2535	xie bian
+曹边	2203	cao bian
+太平	6523	tai ping
+黄岐	1277	huang qi
+六联	3060	liu lian
+泌冲	708	mi chong
+白沙	2742	bai sha
+沙溪	723	sha xi
+盐步	1641	yan bu
+河东	4694	he dong
+河西	5030	he xi
+联安	4224	lian an
+平地	13531	ping di
+横江	1733	heng jiang
+东秀	3683	dong xiu
+雍雅	474	yong ya
+沥雅	373	li ya
+沥桂	177	li gui
+岐城	2061	qi cheng
+渔业	3307	yu ye
+沙涌	701	sha chong
+草场	2544	cao chang
+河村	2043	he cun
+甘蕉	285	gan jiao
+胜利	3740	sheng li
+大步	15589	da bu
+洲村	1192	zhou cun
+大冲	14806	da chong
+大石	15654	da shi
+邓岗	291	deng gang
+和顺	11472	he shun
+里水	9869	li shui
+金溪	2763	jin xi
+流潮	1707	liu chao
+共同	6965	gong tong
+白岗	2273	bai gang
+文教	6391	wen jiao
+金利	5579	jin li
+新兴	4186	xin xing
+新联	4155	xin lian
+金峰洲	3365	jin feng zhou
+金旗峰	3085	jin qi feng
+得胜村	10282	de sheng cun
+宏岗村	855	hong gang cun
+赤山村	3824	chi shan cun
+麻奢村	987	ma she cun
+布新村	4889	bu xin cun
+岗联村	1956	gang lian cun
+北沙村	3328	bei sha cun
+瑶头村	4341	yao tou cun
+鹤峰村	903	he feng cun
+贤僚村	1126	xian liao cun
+鲁岗村	1262	lu gang cun
+汤村村	1464	tang cun cun
+小布村	7493	xiao bu cun
+建星村	3846	jian xing cun
+逢涌村	906	feng chong cun
+石塘村	2218	shi tang cun
+和桂工业园	18035	he gui gong ye yuan
+桂城	2183	gui cheng
+九江	3088	jiu jiang
+西樵	3644	xi qiao
+丹灶	407	dan zao
+狮山	3006	shi shan
+大沥	14155	da li
+里水	9869	li shui
