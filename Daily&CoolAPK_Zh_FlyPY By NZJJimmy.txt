@@ -1,48 +1,48 @@
 # Gboard Dictionary version:1
-aa'ku	阿酷
-ba'bd'bn'bk	八百标兵
-bd'ma'di'tu	白马地图
-bd'mn	白描
-bc'yr	宝源
-if'vs'jl	晨钟酱
-ig'bw'vi'hx'kd	城北栀花开
-ig'bo'yj	程博衍
-is'bd'bu'ui'ai	崇拜不是爱
-cy'iu'ks'jm'ge'li	存储空间隔离
-cy'iu'vs'dk'xl	存储重定向
-da'ug'jk'hx	大圣净化
-dd'ke'jp'tu	带壳截图
-er'ui'bi'lk'yi'hx	二十笔零一画
-gu'wu	孤鹜
-gl'.'yu	光·遇
-hc'vc'tz	好兆头
-hx'ug'uo	花生说
-hl'fu'lb	黄福林
-ku'an'xn'bm	酷安小编
-kk'le'qq	快乐球
-lj'.'xi'ts'gs'ju'xl	镧·系统工具箱
-lj'.'xi'ts'gs'ju'xl	镧·系统工具箱
-lj'gs'ju'xl	镧工具箱
-lj'gs'ju'xl	镧工具箱
-li'zi	梨子
-ls'he	龙鹤Pro
-ma'dk'ls'vu	马丁龙猪
-mu'bw'qk'ge'hj	慕北清歌寒
-nan'vi'bw'if	南栀北辰or
-ni'mk'yz'ke	匿名游客
-nk'jk'vi'yu	宁静之雨
-nv'wa'ui	女娲石
-qm'ji	钱迹
-qk'yu	轻雨
-rv'xk'if	芮星晨
-uv'yt'yu	水月雨
-ww'pe	微PE
-ww'qi'ds	微启动
-xx'wu	霞鹜
-xn'gz'ii'bu'ln'yu	小狗吃不了鱼
-xk'ks'ww'ld	星空未来
-yi'ge'mu'hj	一个木函
-yz'mu'vz	柚木舟
+aa'ku	阿酷	zh-CN
+ba'bd'bn'bk	八百标兵	zh-CN
+bd'ma'di'tu	白马地图	zh-CN
+bd'mn	白描	zh-CN
+bc'yr	宝源	zh-CN
+if'vs'jl	晨钟酱	zh-CN
+ig'bw'vi'hx'kd	城北栀花开	zh-CN
+ig'bo'yj	程博衍	zh-CN
+is'bd'bu'ui'ai	崇拜不是爱	zh-CN
+cy'iu'ks'jm'ge'li	存储空间隔离	zh-CN
+cy'iu'vs'dk'xl	存储重定向	zh-CN
+da'ug'jk'hx	大圣净化	zh-CN
+dd'ke'jp'tu	带壳截图	zh-CN
+er'ui'bi'lk'yi'hx	二十笔零一画	zh-CN
+gu'wu	孤鹜	zh-CN
+gl'.'yu	光·遇	zh-CN
+hc'vc'tz	好兆头	zh-CN
+hx'ug'uo	花生说	zh-CN
+hl'fu'lb	黄福林	zh-CN
+ku'an'xn'bm	酷安小编	zh-CN
+kk'le'qq	快乐球	zh-CN
+lj'.'xi'ts'gs'ju'xl	镧·系统工具箱	zh-CN
+lj'.'xi'ts'gs'ju'xl	镧·系统工具箱	zh-CN
+lj'gs'ju'xl	镧工具箱	zh-CN
+lj'gs'ju'xl	镧工具箱	zh-CN
+li'zi	梨子	zh-CN
+ls'he	龙鹤Pro	zh-CN
+ma'dk'ls'vu	马丁龙猪	zh-CN
+mu'bw'qk'ge'hj	慕北清歌寒	zh-CN
+nj'vi'bw'if	南栀北辰or	zh-CN
+ni'mk'yz'ke	匿名游客	zh-CN
+nk'jk'vi'yu	宁静之雨	zh-CN
+nv'wa'ui	女娲石	zh-CN
+qm'ji	钱迹	zh-CN
+qk'yu	轻雨	zh-CN
+rv'xk'if	芮星晨	zh-CN
+uv'yt'yu	水月雨	zh-CN
+ww'pe	微PE	zh-CN
+ww'qi'ds	微启动	zh-CN
+xx'wu	霞鹜	zh-CN
+xn'gz'ii'bu'ln'yu	小狗吃不了鱼	zh-CN
+xk'ks'ww'ld	星空未来	zh-CN
+yi'ge'mu'hj	一个木函	zh-CN
+yz'mu'vz	柚木舟	zh-CN
 aa'bo'lo'yj'jk	阿波罗眼镜	zh-CN
 aa'di'wh	阿迪王	zh-CN
 aa'er'll'th	阿二靓汤	zh-CN
