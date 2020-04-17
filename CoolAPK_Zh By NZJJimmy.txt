@@ -1,45 +1,45 @@
 # Gboard Dictionary version:1
-阿酷	a ku	
-八百标兵	ba bai biao bing	
-白马地图	bai ma di tu	
-白描	bai miao	
-宝源	bao yuan	
-晨钟酱	chen zhong jiang	
-城北栀花开	cheng bei zhi hua kai	
-程博衍	cheng bo yan	
-崇拜不是爱	chong bai bu shi ai	
-存储空间隔离	cun chu kong jian ge li	
-存储重定向	cun chu chong ding xiang	
-大圣净化	da sheng jing hua	
-带壳截图	dai ke jie tu	
-二十笔零一画	er shi bi ling yi hua	
-孤鹜	gu wu	
-光·遇	guang yu	
-好兆头	hao zhao tou	
-花生说	hua sheng shuo	
-黄福林	huang fu lin	
-酷安小编	ku an xiao bian	
-快乐球	kuai le qiu	
-镧·系统工具箱	lan xi tong gong ju xiang	
-镧·系统工具箱	lan gong ju xiang	
-镧工具箱	lan gong ju xiang	
-镧工具箱	lan gong ju xiang	
-梨子	li zi	
-龙鹤Pro	long he	
-马丁龙猪	ma ding long zhu	
-慕北清歌寒	mu bei qing ge han	
-南栀北辰or	nan zhi bei chen	
-匿名游客	ni ming you ke	
-宁静之雨	ning jing zhi yu	
-女娲石	nv wa shi	
-钱迹	qian ji	
-轻雨	qing yu	
-芮星晨	rui xing chen	
-水月雨	shui yue yu	
-微PE	wei p e	
-微启动	wei qi dong	
-霞鹜	xia wu	
-小狗吃不了鱼	xiao gou chi bu liao yu	
-星空未来	xing kong wei lai	
-一个木函	yi ge mu han	
-柚木舟	you mu zhou	
+阿酷	a ku	zh-CN
+八百标兵	ba bai biao bing	zh-CN
+白马地图	bai ma di tu	zh-CN
+白描	bai miao	zh-CN
+宝源	bao yuan	zh-CN
+晨钟酱	chen zhong jiang	zh-CN
+城北栀花开	cheng bei zhi hua kai	zh-CN
+程博衍	cheng bo yan	zh-CN
+崇拜不是爱	chong bai bu shi ai	zh-CN
+存储空间隔离	cun chu kong jian ge li	zh-CN
+存储重定向	cun chu chong ding xiang	zh-CN
+大圣净化	da sheng jing hua	zh-CN
+带壳截图	dai ke jie tu	zh-CN
+二十笔零一画	er shi bi ling yi hua	zh-CN
+孤鹜	gu wu	zh-CN
+光·遇	guang yu	zh-CN
+好兆头	hao zhao tou	zh-CN
+花生说	hua sheng shuo	zh-CN
+黄福林	huang fu lin	zh-CN
+酷安小编	ku an xiao bian	zh-CN
+快乐球	kuai le qiu	zh-CN
+镧·系统工具箱	lan xi tong gong ju xiang	zh-CN
+镧·系统工具箱	lan gong ju xiang	zh-CN
+镧工具箱	lan gong ju xiang	zh-CN
+镧工具箱	lan gong ju xiang	zh-CN
+梨子	li zi	zh-CN
+龙鹤Pro	long he	zh-CN
+马丁龙猪	ma ding long zhu	zh-CN
+慕北清歌寒	mu bei qing ge han	zh-CN
+南栀北辰or	nan zhi bei chen	zh-CN
+匿名游客	ni ming you ke	zh-CN
+宁静之雨	ning jing zhi yu	zh-CN
+女娲石	nv wa shi	zh-CN
+钱迹	qian ji	zh-CN
+轻雨	qing yu	zh-CN
+芮星晨	rui xing chen	zh-CN
+水月雨	shui yue yu	zh-CN
+微PE	wei p e	zh-CN
+微启动	wei qi dong	zh-CN
+霞鹜	xia wu	zh-CN
+小狗吃不了鱼	xiao gou chi bu liao yu	zh-CN
+星空未来	xing kong wei lai	zh-CN
+一个木函	yi ge mu han	zh-CN
+柚木舟	you mu zhou	zh-CN
