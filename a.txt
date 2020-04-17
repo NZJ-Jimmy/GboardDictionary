@@ -1,0 +1,129 @@
+酷安小编	1	ku an xiao bian
+阿酷	1	a ku
+八百标兵	1	ba bai biao bing
+梨子	1	li zi
+好兆头	1	hao zhao tou
+匿名游客	1	ni ming you ke
+快乐球	1	kuai le qiu
+宝源	1	bao yuan
+小狗吃不了鱼	1	xiao gou chi bu liao yu
+黄福林	1	huang fu lin
+崇拜不是爱	1	chong bai bu shi ai
+芮星晨	1	rui xing chen
+花生说	1	hua sheng shuo
+晨钟酱	1	chen zhong jiang
+水月雨	1	shui yue yu
+霞鹜	1	xia wu
+孤鹜	1	gu wu
+城北栀花开	1	cheng bei zhi hua kai
+慕北清歌寒	1	mu bei qing ge han
+程博衍	1	cheng bo yan
+柚木舟	1	you mu zhou
+宁静之雨	1	ning jing zhi yu
+二十笔零一画	1	er shi bi ling yi hua
+马丁龙猪	1	ma ding long zhu
+星空未来	1	xing kong wei lai
+微启动	1	wei qi dong
+带壳截图	1	dai ke jie tu
+一个木函	1	yi ge mu han
+白描	1	bai miao
+白马地图	1	bai ma di tu
+钱迹	1	qian ji
+大圣净化	1	da sheng jing hua
+存储空间隔离	1	cun chu kong jian ge li
+存储重定向	1	cun chu chong ding xiang
+女娲石	1	nv wa shi
+镧工具箱	1	lan gong ju xiang
+alexkillers	3	a l e x k i l l e r s
+Bug小王子	3	b u g xiao wang zi
+fairyex	3	f a i r y e x
+TragedyPZ	3	t r a g e d y
+龙鹤Pro	3	long he
+OasisFeng	3	o a s i s f e n g
+weishu	3	wei shu
+南栀北辰or	3	nan zhi bei chen
+wenjiahong	3	wen jia hong
+zzmind	3	z z m i n d
+Martincz	3	m a r t i n c z
+Mokee	1	m o k e e
+Mokee	1	mo qu
+iKirby	1	i k i r b y
+Pandaria	1	p a n d a r i a
+WEPE	2	w e p e
+微PE	2	wei p e
+光·遇	2	guang yu
+Sky光·遇	3	s k y
+Pure轻雨	3	p u r e
+轻雨	2	qing yu
+镧·系统工具箱	2	lan xi tong gong ju xiang
+镧工具箱	2	lan gong ju xiang
+镧·系统工具箱	3	lan gong ju xiang
+Magisk	2	m a g i s k
+Xposed	2	x p o s e d
+EdXposed	2	e d x p o s e d
+TaiChi	2	t a i c h i
+Thanox	2	t h a n o x
+CoolAPK	2	c o o l a p k
+WeChat	2	w e c h a t
+TIM	2	t i m
+NetEase	2	n e t e a s e
+Edge	2	e d g e
+iPad	2	i p a d
+iPhone	2	i p h o n e
+iTunes	2	i t u n e s
+iOS	2	i o s
+Mac	2	m a c
+macOS	2	m a c o s
+iWatch	2	i w a t c h
+iTranslate	2	i t r a n s l a t e
+Hackintosh	2	h a c k i n t o s h
+Macintosh	2	m a c i n t o s h
+Hackintool	2	h a c k i n t o o l
+MaciASL	2	m a c i a s l
+OneNote	2	o n e n o t e
+OneDrive	2	o n e d r i v e
+mBack	2	m b a c k
+MIUI	2	m i u i
+Flyme	2	f l y m e
+H?OS	2	h 2 o s
+OxygenOS	2	o x y g e n o s
+AEX	2	a e x
+PE	2	p e
+crDroid	2	c r d r o i d
+VIPER4Android	2	v i p e r 4 a n d r o i d
+XHIFI	2	x h i f i
+Photomath	2	p h o t o m a t h
+GApps	2	g a p p s
+GCam	2	g c a m
+Open Gapps	2	o p e n g a p p s
+AOD	2	a o d
+FaceUnlock	2	f a c e u n l o c k
+XMind	2	x m i n d
+Mindly	2	m i n d l y
+SmileSoft	2	s m i l e s o f t
+Fotor	2	f o t o r
+V2Ray	2	v 2 r a y 
+Shadowsocks	2	s h a  d o w s o c k s
+ShadowsocksR	2	s h a d o w s o c k s r
+ClashR	2	c l a s h r
+bilibili	2	bi li bi li
+V2er	2	v 2 e r
+V2EX	2	v 2 e x
+VMware	2	v m w a r e
+Deepin	2	d e e p i n
+Ubuntu	2	u b u n t u
+CentOS	2	c e n t o s
+PhoenixOS	2	p h o e n i x o s
+RemixOS	2	r e m i x o s
+ChromeOS	2	c h r o m e o s
+FydeOS	2	f y d e o s
+ZorinOS	2	z o r i n o s
+Lawnchair	2	l a w n c h a i r
+Bmap	2	b m a p
+Nevolution	2	n e v o l u t i o n
+Nevo	2	n e v o
+Substratum	2	s u b s t r a t u m
+Dir	2	d i r
+sudo	2	s u d o
+apt	2	a p t
+ZArchiver	2	z a r c h i v e r
