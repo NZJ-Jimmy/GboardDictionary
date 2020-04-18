@@ -1,0 +1,213 @@
+# Gboard Dictionary version:1
+😂	xiaoku	zh-CN
+🤦	wulian	zh-CN
+🙃	daolian	zh-CN
+😰	lenghan	zh-CN
+😰	han	zh-CN
+😀	daxiao	zh-CN
+😅	daxiao	zh-CN
+😁	heihei	zh-CN
+😃	haha	
+😆	haha	
+😌	weixiao	zh-CN
+😄	gaoxing	zh-CN
+😏	hehe	
+😆	kaixin	zh-CN
+😊	xiao	zh-CN
+😭	daku	zh-CN
+😟	piezui	zh-CN
+😡	nanguo	zh-CN
+😢	heng	zh-CN
+😔	wushi	zh-CN
+😰	xiaku	zh-CN
+😲	jingya	zh-CN
+😮	chijing	zh-CN
+😦	zhenjing	zh-CN
+😧	jingya	zh-CN
+😱	kepa	zh-CN
+😱	kongbu	zh-CN
+😨	haipa	zh-CN
+😥	beishang	zh-CN
+😠	nanguo	zh-CN
+😍	se	zh-CN
+😘	wen	zh-CN
+😘	qin	zh-CN
+😚	qin	zh-CN
+💋	wen	zh-CN
+😜	tushe	zh-CN
+😜	keai	zh-CN
+😛	tiaopi	zh-CN
+😴	shui	zh-CN
+😴	shuijiao	zh-CN
+😷	kouzhao	zh-CN
+😷	ganmao	zh-CN
+😇	tianshi	zh-CN
+🤗	yongbao	zh-CN
+🤗	bao	zh-CN
+🤔	kaolv	zh-CN
+🤔	xiang	zh-CN
+👏	guzhang	zh-CN
+👏	huanying	zh-CN
+👌	ok	
+👌	hao	zh-CN
+👍	zan	zh-CN
+👍	ding	zh-CN
+👍	lihai	zh-CN
+👎	fandui	zh-CN
+👎	dao	zh-CN
+👎	diss	
+✌	yeah	
+✌	shengli	zh-CN
+🙏	qidao	zh-CN
+🙏	baoyou	zh-CN
+🙏	heshi	zh-CN
+✋	bu	zh-CN
+✋	zaijian	zh-CN
+💪	qiang	zh-CN
+💪	jirou	zh-CN
+💪	duanlian	zh-CN
+💪	zhuang	zh-CN
+💗	xin	zh-CN
+❤	aixin	zh-CN
+💔	xinsui	zh-CN
+💕	ai	zh-CN
+💕	love	
+👀	yan	zh-CN
+👀	kan	zh-CN
+👀	qiao	zh-CN
+😈	emo	zh-CN
+😈	mo	zh-CN
+💀	tougu	zh-CN
+💀	kulou	zh-CN
+💀	kongbu	zh-CN
+🤖	jiqiren	zh-CN
+🤖	robot	
+👮	jingcha	zh-CN
+💊	yao	zh-CN
+💊	yaowan	zh-CN
+💉	zhen	zh-CN
+💉	dazhen	zh-CN
+👙	bijini	zh-CN
+👙	bikini	zh-CN
+👙	yongyi	zh-CN
+🔒	suo	zh-CN
+🌏	ditu	zh-CN
+🌐	shijie	zh-CN
+🗺	ditu	zh-CN
+🗺	world	zh-CN
+🌏	world	zh-CN
+🌏	diqiu	zh-CN
+🌏	earth	zh-CN
+🌎	world	zh-CN
+🌏	diqiu	zh-CN
+🌎	diqiu	zh-CN
+🌎	earch	zh-CN
+🌏	earch	zh-CN
+💰	qian	zh-CN
+💸	qian	zh-CN
+🤑	qian	zh-CN
+🤑	dollar	
+💰	dollar	
+💰	meiyuan	zh-CN
+💰	meidao	zh-CN
+💰	dao	zh-CN
+💸	money	
+🛀	xizao	zh-CN
+🎮	game	
+🎮	youxi	zh-CN
+🎮	wanyouxi	zh-CN
+🎮	dayouxi	zh-CN
+🎁	liwu	zh-CN
+🎉	paidui	zh-CN
+🎉	party	zh-CN
+🎉	qingzhu	zh-CN
+⚡	shandian	zh-CN
+⚡	dian	zh-CN
+🆗	ok	
+🆗	hao	zh-CN
+☕	coffee	
+☕	kafei	zh-CN
+🍵	kaofei	zh-CN
+☕	xiuxi	zh-CN
+🍵	cha	zh-CN
+🍵	hecha	zh-CN
+🍺	pijiu	zh-CN
+🍺	jiu	zh-CN
+🍺	hejiu	zh-CN
+🍻	ganbei	zh-CN
+🍻	cheers	
+🍚	fan	zh-CN
+🍚	chifan	zh-CN
+🆙	up	
+🆚	vs	
+⬆	shang	zh-CN
+⬇	xia	zh-CN
+⬅	zuo	zh-CN
+➡	you	zh-CN
+↖	zuoshang	zh-CN
+↗	youshang	zh-CN
+↘	youxia	zh-CN
+↙	zuoxia	zh-CN
+✔	dui	zh-CN
+✔	gou	zh-CN
+✖	cuo	zh-CN
+✖	cha	zh-CN
+©	banquan	zh-CN
+©	copyright	
+®	zhuceshangbiao	zh-CN
+®	register	
+🎵	yinyue	zh-CN
+🎵	music	
+✉	xinxi	zh-CN
+📨	email	
+📨	youjian	zh-CN
+🏳	qi	zh-CN
+🏳	flag	
+✈	feiji	zh-CN
+☔	san	zh-CN
+🌂	san	zh-CN
+☔	yusan	zh-CN
+🌧	yu	zh-CN
+⛈	xiayu	zh-CN
+🌤	yun	zh-CN
+🌞	taiyang	zh-CN
+🌞	ri	zh-CN
+🌙	yue	zh-CN
+❇	xue	zh-CN
+٭	star	
+☆	star	
+★	star	
+✳	xing	zh-CN
+🌟	xing	zh-CN
+٭	xing	zh-CN
+★	xing	zh-CN
+☆	xing	zh-CN
+🌟	wuxing	zh-CN
+☆	wuxing	zh-CN
+🌹	hua	zh-CN
+🌹	rose	
+🌹	meigui	zh-CN
+🐧	qie	zh-CN
+🐼	xiongmao	zh-CN
+🐼	panda	zh-CN
+🐼	daxiongmao	zh-CN
+🕐	shijian	zh-CN
+🐸	qingwa	zh-CN
+🐸	moha	zh-CN
+🐸	wa	zh-CN
+🐸	gou	zh-CN
+🐸	ha	zh-CN
+∞	wuxian	zh-CN
+∞	wuqiong	zh-CN
+☭	dang	zh-CN
+☭	gongchandang	zh-CN
+☯	taiji	zh-CN
+☯	yinyang	zh-CN
+♂	nan	zh-CN
+♂	man	
+♂	men	
+♁	nv	zh-CN
+♁	woman	
+♁	women	
+💯	100	
+💯	manfen	zh-CN
