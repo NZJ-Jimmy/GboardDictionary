@@ -1,5 +1,7 @@
 # GboardDictionary
 更好地体验Gboard，让Gboard生机勃勃
+# 该项目已停更，小鹤音形Gboard将迁移至
+https://github.com/NZJ-Jimmy/FlyPY-Gboard
 #### 介绍
 ### 个人词典(`.zip`)
 **优点**：便于制作，按模板来就行。
